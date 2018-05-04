@@ -5,5 +5,7 @@
 
 ## In progress...
 
+Created by [Dalton Menezes](https://github.com/daltonmenezes)
+
 # License
 [MIT License](https://github.com/daltonmenezes/extensible/blob/master/LICENSE)
