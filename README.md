@@ -1,6 +1,5 @@
-<p align="center"><img src="https://i.imgur.com/jnGenxo.png" alt="Extensible logo" /></p>
+<p align="center"><img src="https://i.imgur.com/eIPf5Eo.png" alt="Extensible logo" /></p>
 
-<h1 align="center">Extensible</h1>
 <p align="center">An <a href="https://electronjs.org/">Electron</a> library to manage extensions / plugins into your apps.</p>
 
 ## In progress...
