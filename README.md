@@ -8,6 +8,10 @@
   An <a href="https://electronjs.org/">Electron</a> library to manage extensions / plugins into your apps.
   <br><br>
   
+  <a href="https://issuehunt.io/r/extensiblejs/extensible">
+    <img src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-brightgreen?style=flat-square" alt="fund issues on issuehunt" />
+  </a>  
+  
   <a href="https://www.padrim.com.br/daltonmenezes">
     <img src="https://img.shields.io/badge/me%20apoie%20no-padrim-brightgreen?style=flat-square" alt="me apoie no padrim" />
   </a>
