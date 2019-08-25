@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  An <a href="https://electronjs.org/">Electron</a> library to manage extensions / plugins into your apps.
+  An <a href="https://electronjs.org/">Electron</a> library to manage and build extensions / plugins into your apps.
   <br><br>
   
   <a href="https://issuehunt.io/r/extensiblejs/extensible">
